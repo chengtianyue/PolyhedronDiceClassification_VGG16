@@ -5,3 +5,6 @@ The source code of classifying different kind of Polyhedron Dice using tensorflo
 
 ## Tips on editing:
 Modify the file "main.py". Override the source code from line 23 to 54.
+
+## Data source
+https://www.flyai.com/d/PolyhedronDiceClassification
